@@ -12,9 +12,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "bluebird": "^3.5.1",
-    "mssql": "^4.1.0",
-    "recursive-readdir": "^2.2.1",
-    "verror": "^1.10.0"
+    "mssql": "^4.1.0"
   },
   "devDependencies": {
     "eslint": "^4.16.0",
